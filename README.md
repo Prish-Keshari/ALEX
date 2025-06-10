@@ -1,5 +1,5 @@
 # ALEX
--> It listens for the wake word: “Jarvis”  
+-> It listens for the wake word: “ALEX”  
 -> Recognizes voice commands  
 -> Speaks responses(open different sites, gives latest news,play music)  
 -> It includes external, built-in modules and API keys like:-  
