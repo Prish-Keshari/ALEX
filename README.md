@@ -1,4 +1,4 @@
-# Jarvis
+# ALEX
 -> It listens for the wake word: “Jarvis”  
 -> Recognizes voice commands  
 -> Speaks responses(open different sites, gives latest news,play music)  
